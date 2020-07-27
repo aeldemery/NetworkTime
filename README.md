@@ -7,7 +7,7 @@
 
 ## About <a name = "about"></a>
 
-Network Time is one of coding examples in the book 'Introducing Vala Programming, by Dr Michael Lauer'.
+Network Time is one of coding examples in the book **_Introducing Vala Programming, by Dr Michael Lauer_**.
 
 The [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks.
 
